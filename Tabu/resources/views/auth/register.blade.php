@@ -58,8 +58,36 @@
 
                             <div class="col-md-6">
                                 <input id="password-confirm" type="password" class="form-control" name="password_confirmation" required autocomplete="new-password">
-                            </div>
+                            </div>   
                         </div>
+
+                        <i class="fas fa-h2    ">Intereses</i>
+                        <div class="form-check">
+                            <label class="form-check-label">
+                              <input type="checkbox" class="form-check-input" name="" id="" value="checkedValue" checked>
+                               Salud
+                            </label>
+                          </div>
+                          <div class="form-check">
+                            <label class="form-check-label">
+                              <input type="checkbox" class="form-check-input" name="" id="" value="checkedValue" checked>
+                               Eventos
+                            </label>
+                          </div>
+                          <div class="form-check">
+                            <label class="form-check-label">
+                              <input type="checkbox" class="form-check-input" name="" id="" value="checkedValue" checked>
+                               Educacion
+                            </label>
+                          </div>
+                          <div class="form-check">
+                            <label class="form-check-label">
+                              <input type="checkbox" class="form-check-input" name="" id="" value="checkedValue" checked>
+                               Sexo
+                            </label>
+                          </div>
+      
+                        
 
                         <div class="form-group row mb-0">
                             <div class="col-md-6 offset-md-4">
