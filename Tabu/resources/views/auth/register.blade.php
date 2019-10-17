@@ -61,23 +61,29 @@
                             </div>   
                         </div>
 
-                        <i class="fas fa-h2    ">Preferencias</i>
+                        <i class="fas fa-h2    ">Intereses</i>
                         <div class="form-check">
                             <label class="form-check-label">
                               <input type="checkbox" class="form-check-input" name="" id="" value="checkedValue" checked>
-                               Hetero
+                               Salud
                             </label>
                           </div>
                           <div class="form-check">
                             <label class="form-check-label">
                               <input type="checkbox" class="form-check-input" name="" id="" value="checkedValue" checked>
-                               Homo
+                               Eventos
                             </label>
                           </div>
                           <div class="form-check">
                             <label class="form-check-label">
                               <input type="checkbox" class="form-check-input" name="" id="" value="checkedValue" checked>
-                               Bi
+                               Educacion
+                            </label>
+                          </div>
+                          <div class="form-check">
+                            <label class="form-check-label">
+                              <input type="checkbox" class="form-check-input" name="" id="" value="checkedValue" checked>
+                               Sexo
                             </label>
                           </div>
       
